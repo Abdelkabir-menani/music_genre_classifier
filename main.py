@@ -4,16 +4,12 @@ from fastapi.staticfiles import StaticFiles
 import os
 from preprocess_input import trim_audio
 from inference import predict_audio
-from pydub import AudioSegment  # Make sure to install pydub
-import torch
-from torchvision import transforms
 from pymongo.mongo_client import MongoClient
-from models.music import Music
 from config.database import collection_name
 from schema.schemas import list_serial
 from bson import ObjectId
 import io
-uri = "mongodb+srv://abdel9944:Svuz8WnLo5tfC2U9@cluster0.5blic6b.mongodb.net/?retryWrites=true&w=majority"
+uri=os.getenv('URI')
 
 # Create a new client and connect to the server
 client = MongoClient(uri)
