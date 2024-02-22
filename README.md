@@ -17,7 +17,7 @@ docker compose up --build
 # app demo
 Home page:
 
-``![home_page]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/home_page_page.png)``
+![home_page]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/home_page_page.png)
 
 Predictions page:
-``![predictions_page]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)``
+![predictions_page]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)https://github.com/Abdelkabir-menani/music_genre_classifier/blob/main/app_images/predictions_page.png)
