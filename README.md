@@ -5,8 +5,11 @@ I used a CNN model with 3 convolutional layers, learning_rate=0.0001. the datase
 The model works on the Mel Frequency Cepstral Coefficients (MFCCs) of the audio files.
 # requirements:
 -python 3.8
+
 -fast-api
+
 -pymongo
+
 -docker
 # run:
 To run the app, clone the repo and run these commands:
